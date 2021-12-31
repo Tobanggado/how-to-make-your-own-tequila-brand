@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+<h1>How To Make Your Own Tequila Brand</h1>
 
-You can use the [editor on GitHub](https://github.com/Tobanggado/how-to-make-your-own-tequila-brand/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<div id="toc" style="background: #f9f9f9;border: 1px solid #aaa;display: table;margin-bottom: 1em;padding: 1em;width: 350px;"><p class="toctitle" style="font-weight: 700;text-align: center;">Content</p><ul class="toc_list"><li><a href="#toc-0">Finest For Whiskey Lovers: Chinaco Añejo</a></li><li><a href="#toc-1">Joven Or Gold Tequila</a></li><li><a href="#toc-2">Introducing Teremana Tequila</a></li><li><a href="#toc-3">Añejo</a></li><li><a href="#toc-4">Teremana Añejo Neat</a></li><li><a href="#toc-9">Discover Food & Wine</a></li></ul></div>
+<p>In order to realize this objective, we might acquire info from you. This Privacy Policy sets forth the privacy rules we comply with, in accordance with our operations. Thomas Henry Strenk is a Brooklyn-based freelance author with over 20 years expertise masking the beverage and restaurant industries.</p>
+<div itemScope itemProp="mainEntity" itemType="https://schema.org/Question">  <div itemProp="name"><h2>What is the easiest alcohol to make?</h2></div>  <div itemScope itemProp="acceptedAnswer" itemType="https://schema.org/Answer">      <div itemProp="text"><p>Most people will agree that mead is the best alcohol to make because it requires very little tools and elements. If you don't have the gadgets already in your pantry, you'll find a way to simply procure them from the grocery store. To make mead, you want about 2-3 pounds of honey for 1 gallon/3.78 liter of water.</p></div>  </div></div>
+<p>As it's required that each tequila model indicate its NOM on the back of its bottles, these numbers are a useful indication of figuring out the legitimacy and caliber of tequilas. Searching a NOM online on websites such as Tequila Matchmaker will immediately reveal the place the tequila was made — and which different tequila brands have been additionally made at that distillery. To be thought-about a ‘Reposado’ or ‘rested’ fashion tequila, you should age the spirit between two months and one 12 months in an oak barrel. Aging the tequila for this period of time offers it a caramel-colored tone and a lightweight oak taste profile. Fun reality, ‘Reposado’ truly translates to ‘rested.’ Most Reposado tequilas are labeled as ‘aged’ on the bottle.</p>
+<h2 id="toc-0">Finest For Whiskey Lovers: Chinaco Añejo</h2>
+<p>A spark of creativity that could only come from wild exploration and experimentation from the Bar Expert. It’s not just about who's behind the bar, it’s about what they do when they don't appear to be, that helps these specialists create your liquid obsession. Has a quality and sophistication that defines the greatest way you need to drink," explains founder, Lisa Barlow. "The new bottle is critical.</p>
+<ul><li>Like a number of small batch distilleries, Volcan has its personal NOM, a four-digit quantity printed on every bottle of tequila that represents the distillery they’re produced at and is often an indicator of a tequila’s quality.</li><li>That stated, we know there’s nonetheless lots of onerous work to be accomplished, and through our dedication and perception in the high quality of our product, we all know that the sky is the restrict for us.</li><li>The Aztecs believed the agave plant to be a present from the gods, drank a prototypical agave spirit referred to as pulque, and worshipped an agave deity named Mayahuel.</li><li>When you taste an extreme quantity of vanilla, and we name that a 'vanilla bomb', that often means extra vanilla extract powder was added.</li></ul>
+<p>The blue agave takes eight to 10 years to mature, however could take longer in numerous climates exterior its native rising area. Even should you meet all of the regulatory and safety requirements, and you still wish to make your own blue agave spirits, you will not begin to see production for a minimum of seven years, assuming you planted the standard one-year-old shoot. [newline]Around the 1820s , Jose Castaneda based La Antigua Cruz, which was acquired by Don Cenobio Sauza in 1873. Sauza changed the name to La Preservancia in 1888 – the name it nonetheless bears – and he started making mezcal wine. One legend says it was Don Cenobio who decided the blue agave was the best maguey for making tequila, in the 1870s, and the rest of the distillers adopted his lead. Some say tequila was first exported to the USA in 1873, when Sauza offered three barrels to El Paso del Norte. Don Cenobio was also recognized for defending his plantation in opposition to bandits.</p>
+<h3 id="toc-1">Joven Or Gold Tequila</h3>
+<p>This signifies that selections relating to manufacturing come extra from the guts than the pocket,” Estes says, including that craft manufacturers not often surpass a 30,000 case per year production . Only certain mezcals, normally from the state of Oaxaca, are ever sold con gusano . They are added as a marketing gimmick and aren't traditional. The tequila regulatory council doesn't enable gusanos or scorpions to be included in tequila bottles. The worm in some mezcals is definitely the larval form of the moth Hypopta agavis, which lives on the agave plant.</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tobanggado/how-to-make-your-own-tequila-brand/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p>First, in order to be known as tequila, there is a geographically particular certification process similar to that of wine in Italy and France. On top of that, there are other standards that are set by the . Beyond that, there's discovering a distiller, working within U.S. guidelines and making an attempt to vary folks's perspectives across the spirit. If you’re pondering of starting a model new tequila brand but feeling uncertain or overwhelmed about all the main points of the method, it’s a smart concept to look for an integrated beverage developer quite than a distillery.</p>
+<h3 id="toc-2">Introducing Teremana Tequila</h3>
+<p>Tequila Ocho uses an indigenous yeast sourced originally from an agave plant. “The key to best quality for fermentation and distillation is ‘slow’, as within the Slow Food motion philosophy,” says Estes. And many distilleries produce liquid for more than one model. In celebration of Strait’s new launch, we’ve compiled eight extra musician-backed tequila manufacturers so that you just can take pleasure in. Johnson joins a listing of celebrities together with George Clooney, Nick Jonas and Kendall Jenner with their very own tequila manufacturers. Tequila Sheela originates from the highlands of Amatitán within the Mexican state of Jalisco.</p>
+<div itemScope itemProp="mainEntity" itemType="https://schema.org/Question">  <div itemProp="name"><h2>Who is the largest producer of tequila?</h2></div>  <div itemScope itemProp="acceptedAnswer" itemType="https://schema.org/Answer">      <div itemProp="text"><p>Investment Thesis. Becle (OTCPK:BCCLF, CUERVO*:MM) is doubtless certainly one of the oldest companies in Mexico and the largest tequila producer in the world with 24.4% of the global tequila market.</p></div>  </div></div>
+<p>Sometimes using french oak barrels might make you 'think' there are components, as a outcome of it can taster very candy, even overly sweet. Codigo 1530’s tequila began as a personal family recipe and was enjoyed for personal consumption for five generations. Its co-founder, Federico "Fede" Vaughan, was part of the group of Mexican households who funded the private distillation of this tequila. He met his friend, Ron Snyder, co-founder and CEO, in Los Cabos, and it was over sharing sips of the personal tequila that they made plans to make it obtainable to the basic public.</p>
+<h2 id="toc-3">Añejo</h2>
+<p>Adding components and or color often occurs in course of the end of production before bottling, in the 'rectification'. This is a really misleading and sneaky trick, however sadly...a authorized follow. The more tequilas you style and actually scrutinize, the easier it gets to choose out additive flavorings. The huge problem is that additives aren't required to be disclosed, though I consider they want to be, even if it is 1%. So when a model says "we're 100 percent additive free" there isn't a means you'll be able to prove it. We need to let each other know, of the 'apparent offenders', despite the actual fact that it is legal up to this 1% limit.</p>
+<div itemScope itemProp="mainEntity" itemType="https://schema.org/Question">  <div itemProp="name"><h2>Is tequila cheaper in Mexico?</h2></div>  <div itemScope itemProp="acceptedAnswer" itemType="https://schema.org/Answer">      <div itemProp="text"><p>My recommendation is at all times to look for the local bargains wherever you go in the world. In Mexico that features good tequila for a good worth. For a whole lot of manufacturers, you'll have the ability to anticipate to pay half what you'll within the USA.</p></div>  </div></div>
